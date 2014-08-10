@@ -1,0 +1,15 @@
+﻿body{
+font-family: arial, helvetica, sans-serif;
+font-size: 12px;
+}
+
+.menu ul li{
+display: inline-block;
+margin-left: 10px;
+
+}
+
+.footer{
+	text-align: center;
+	font-size: 80%;
+}

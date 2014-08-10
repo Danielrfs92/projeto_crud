@@ -1,0 +1,25 @@
+				Projeto CRUD 
+
+Telas:
+Tela Inicial de Login x
+Tela Principal/Home x
+Tela de Cadastro x
+Tela de Exibir Dados/Leitura x
+Tela de Alterar/Editar Dados x
+Tela de Deletar Dados x
+
+Funcionalidades:
+Logar x
+Deslogar x
+Cadastrar x
+Exibir x
+Editar x
+Deletar x
+
+Banco de Dados
+crud - crud
+ID
+Nome
+Sobrenome
+Usuario
+Senha
